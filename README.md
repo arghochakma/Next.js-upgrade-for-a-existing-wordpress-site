@@ -12,7 +12,7 @@ REST API + LearnDash API — fetch courses, progress, lessons
 
 Vercel Deployment — fast hosting + global edge network
 
-🏗️ System Architecture
+# System Architecture
 WordPress CMS (Backend, LearnDash)<br>
  ├─ REST API (wp-json/wp/v2)<br>
  ├─ LearnDash API (wp-json/ldlms/v2)<br>
